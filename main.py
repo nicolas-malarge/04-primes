@@ -1,5 +1,5 @@
 """
-On cherche les nombres premiers 
+On cherche les nombres premiers de façon optimale
 """
 from math import sqrt
 
